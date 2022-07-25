@@ -1,0 +1,141 @@
+body {
+    background-color: rgb(253, 251, 251);
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    color: black;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.content {
+    width: 840px;
+    margin: auto;
+    padding-top: 60px;
+}
+#cabecalho {
+    width: 840px;
+    top: 0;
+    font-style: italic;
+    font: 100;
+    line-height: 30px;
+    background: darkgreen;
+    position: fixed;
+    text-align: center;
+    color: greenyellow;
+}
+.container {
+    background-color: green;
+    text-align: center;
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+#picInfo{
+    display: inline-block;
+    float: left;
+    width: 380px;
+    background-color: lightgreen;
+    margin-left: 27px;
+    border: 10px solid lightgreen;
+    border-top: 20px solid lightgreen;
+    box-shadow: 10px 10px rgb(4, 56, 4);
+}
+.container2{
+    background-color: lightgreen;
+    text-align: center;
+    height: 800px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 800px;
+    margin: auto;
+}
+
+.container3{
+    background-color: green;
+    text-align: center;
+    height: 500px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 600px;
+}
+
+.tableContainer {
+    width: auto;
+    display: inline-block;
+    text-align: left;
+}
+
+
+.lado-esquerdo, .lado-direito{
+    background-color: lightgreen;
+    display: inline-block;
+    text-align: left;
+    width: 350px;
+}
+
+.listContainer{
+    background-color: lightgreen;
+    display: inline-block;
+    text-align: left;
+    width: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 100px;
+    box-shadow: 10px 10px rgb(4, 56, 4);
+}
+.spacer{
+    height: 10px;
+    width: 10%;
+    display: inline-block;
+}
+.trybeRocket{
+
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+}
+
+table {
+    width: 310px;
+    margin: 4px;
+}
+
+aside {
+    display: inline-block;
+    width: 380px; 
+}
+
+#licoes_aprendidas,
+#licoes_a_aprender {
+    display: inline-block;
+    width: 300px;
+}
+#rodape{
+    background-color: green;
+}
+
+#minha_foto{
+    width: 360px;
+    height: 360px;
+}
+#licoes_a_aprender{
+    top: 120px;
+}
+.lado-direito{
+    border: 20px solid lightgreen;
+    border-left: 30px solid lightgreen;
+    border-bottom: 30px solid lightgreen;
+    width: 300px;
+    border-top: 10px;
+    box-shadow: 10px 10px rgb(4, 56, 4);
+}
+h2{
+    text-align: center;
+}
+#rodape{
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+}
